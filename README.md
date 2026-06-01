@@ -70,7 +70,7 @@ App.js
 ---
 
 ## 🤝 Developed By
--Thinuka Hettigedara
+- Thinuka Hettigedara
 
 
 ```

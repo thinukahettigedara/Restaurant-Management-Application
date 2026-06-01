@@ -1,1 +1,3 @@
+## Restaurant Management Application
+
 A React Native (Expo) Restaurant Management Application that allows users to browse menus, place orders, and make reservations, while providing admins with tools to manage menu items, orders, and overall restaurant operations efficiently.
